@@ -18,4 +18,4 @@ Tree Tally is an intelligent tool that harnesses the capabilities of YOLO (You O
 
 ## Example of predicted image
 
-![1695918839515](https://github.com/satwikkamath/sih_2023/assets/107809929/e83a994d-e29a-47ca-8959-147f35313da7)
+![1695918839515](https://github.com/satwikkamath/sih_2023/assets/107809929/e83a994d-e29a-47ca-8959-147f35313da7 {width=40px height=400px})
