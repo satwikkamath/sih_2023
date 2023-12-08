@@ -15,3 +15,7 @@ Tree Tally is an intelligent tool that harnesses the capabilities of YOLO (You O
 2. Run the command: `npm install` in your terminal.
 3. Run the command: `node index.js`. If you have nodemon installed, use `nodemon index.js`.
 4. Open your web browser and navigate to `localhost:3000`.
+
+## Example of predicted image
+
+![1695918839515](https://github.com/satwikkamath/sih_2023/assets/107809929/e83a994d-e29a-47ca-8959-147f35313da7)
